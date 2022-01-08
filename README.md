@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ssohye
-- 👀 I’m interested in ... embedded software, ios/Android apllication, 
+- 👀 I’m interested in ... embedded software, ios/Android apllication,Artificial Intelligence
 - 🌱 I’m currently majoring Artificial Intelligence in of AI.software, Gachon University,Republic of Korea.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me by Email: ksdk6145@gachon.ac.kr
