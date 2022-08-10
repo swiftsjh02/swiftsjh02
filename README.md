@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiho%20Seo's%20Repo.&fontSize=90&animation=fadeIn)
 
   <h1>Introduction</h1>
-  <p>Sophomore,School of AI.Software,Gachon University,South Korea</p>
-  <p>Interests: Algorithm,Web,Network,A.I.,Mobile Application,,</p>
+  <h2>Sophomore,School of AI.Software,Gachon University,South Korea</h2>
+  <h2>Interests: Algorithm,Web,Network,A.I.,Mobile Application,,</h2>
 
 
   <h2>Solved.ac, Problem Solving Skill</h2>
