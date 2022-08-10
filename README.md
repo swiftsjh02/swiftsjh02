@@ -7,7 +7,7 @@
   <p>Interests: Algorithm,Web,Network,A.I.,Mobile Application,,</p>
 
 
-  <h2>Solved Ac, Problem Solving Skill</h2>
+  <h2>Solved.ac, Problem Solving Skill</h2>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ksdk6145)](https://solved.ac/ksdk6145)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssohye&layout=compact)](https://github.com/ssohye/github-readme-stats)
