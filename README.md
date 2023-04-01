@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiho%20Seo's%20Repo.&fontSize=90&animation=fadeIn)
 
   <h1>Introduction</h1>
-  <p>Sophomore,School of AI.Software,Gachon University,South Korea</p>
+  <p>Junior ,School of AI.Software,Gachon University,South Korea</p>
   <p>Interests: Algorithm,Web,Network,A.I.,Mobile Application,,</p>
-
+  <p> Scheduled to Serve in ROK Air Force : 2023.05.29 ~ 2025.02.28 
 
   <h2>Solved.ac, Problem Solving Skill</h2>
   
