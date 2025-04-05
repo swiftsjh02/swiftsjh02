@@ -5,7 +5,7 @@
   <h1>Introduction</h1>
   <p>Junior ,School of AI.Software,Gachon University,South Korea</p>
   <p>Experience : InfraStructure, Mobile Appication , Backend Application</p>
-  <p> Serving in 1st Fighter Wing, ROK Air Force : 2023.05.29 ~ 2025.02.28 
+
 
   <h2>Solved.ac, Problem Solving Skill</h2>
   
