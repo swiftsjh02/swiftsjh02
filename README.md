@@ -1,6 +1,6 @@
 <div align=center>
+<img width="3749" height="1081" alt="Banner" src="https://github.com/user-attachments/assets/8ad1b355-e123-476b-bcfc-a426a7a44b62" />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiho%20Seo's%20Repo.&fontSize=90&animation=fadeIn)
 
   <h1>Introduction</h1>
   <p>Junior ,School of AI.Software,Gachon University,South Korea</p>
