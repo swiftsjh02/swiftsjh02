@@ -3,7 +3,7 @@
 
 
   <h1>Introduction</h1>
-  <p>Junior ,School of AI.Software,Gachon University,South Korea</p>
+  <p>Devops Enginner | DX Team, Plaid</p>
   <p>Experience : InfraStructure, Mobile Appication , Backend Application</p>
 
 
