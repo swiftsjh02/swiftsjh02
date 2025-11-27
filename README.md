@@ -3,7 +3,7 @@
 
 
   <h1>Introduction</h1>
-  <p>Devops Enginner | DX Team, Plaid</p>
+  <p>Devops Engineer | DX Team, Plaid</p>
   <p>Experience : InfraStructure, Mobile Appication , Backend Application</p>
 
 
