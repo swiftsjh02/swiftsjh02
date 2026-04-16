@@ -1,6 +1,6 @@
-<div align=center>
-<img width="3749" height="1081" alt="Banner" src="https://github.com/user-attachments/assets/8ad1b355-e123-476b-bcfc-a426a7a44b62" />
 
+<div align=center>
+<img width="5760" height="3240" alt="image" src="https://github.com/user-attachments/assets/5d5b1b60-f336-4d55-adc7-2dc29e85053b" />
 
   <h1>Introduction</h1>
   <p>Devops Engineer | DX Team, Plaid</p>
